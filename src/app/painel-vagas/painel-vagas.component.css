@@ -1,0 +1,24 @@
+main {
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+
+    height: 100vh;
+    width: auto;
+    border: 0;
+    padding: 2vw;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.row h1 {
+    color: #F5F5F5;
+    font-weight: 600;
+}
+
+.row div div label {
+    font-weight: 600;
+    color: #F5F5F5;
+    font-size: 18px;
+}
+

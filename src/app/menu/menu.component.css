@@ -1,0 +1,11 @@
+.nav {
+    background: #353535;
+    background: -webkit-linear-gradient(to right, #ffffff, #ffffff, #ffffff);
+    background: linear-gradient(to right, #ffffff, #ffffff, #ffffff);
+}
+
+.nav .nav-item a {
+    font-family: 'Times New Roman', Times, serif;
+    color: #F5F5F5;
+    font-size: 20px;
+}

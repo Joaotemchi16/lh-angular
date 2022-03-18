@@ -1,0 +1,47 @@
+main {
+    background: #383838;
+    background: -webkit-linear-gradient(to right, #383838, #383838, #383838);
+    background: linear-gradient(to right, #383838, #383838, #383838);
+
+    height: 100vh;
+    width: auto;
+    border: 0;
+    padding: 2vw;
+    text-align: center;
+}
+
+h1, h2, h5, p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #F5F5F5;
+}
+
+h1 {
+    font-weight: 600;
+    color: #F5F5F5;
+}
+
+h2 {
+    color: #F5F5F5;
+}
+
+.lista_vagas {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.lista_vagas .card {
+    display: inline-block;
+    background-color: transparent;
+    border: none;
+    transition: box-shadow 0.5s;
+    margin: 0vw 5px;  
+    text-align: left;
+}
+
+.lista_vagas .card:hover {
+    box-shadow: 0px 0px 3px 2px #fff;
+    cursor: default;
+}

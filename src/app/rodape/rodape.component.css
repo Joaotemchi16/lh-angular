@@ -1,0 +1,12 @@
+p {
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    margin: 0;    
+    padding: 1vw;
+    border-top: solid 1px #F5F5F5;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #F5F5F5;
+    font-size: 18px;
+}
